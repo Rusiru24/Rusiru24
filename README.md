@@ -2,20 +2,15 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="320" />
 
-
 - 👀 I'm instereted in **New Tech,Frontend Development**
-
 - 🌱 I’m currently learning **everything**
-
 - 💻Trying to improve **my self everyday**
-
 - 📫 How to reach me **rusiru7k@gmail.com**
-
 - ⚡ Fun fact : **Iron Man Fan 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/rusiru24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/rusirusahashra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/RusiruSahashra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/aja_boii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/rusiru_s)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rusiru24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rusirusahashra/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/RusiruSahashra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aja_boii/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/rusiru_s)
 
 
 <h3 align="left">Languages and Tools:</h3>
